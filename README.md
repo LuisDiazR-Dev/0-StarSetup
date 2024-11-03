@@ -57,25 +57,34 @@
   "terminal.integrated.env.windows": {},
   "console-ninja.featureSet": "Community",
   "workbench.activityBar.location": "bottom",
-  "window.zoomLevel": -2
+  "window.zoomLevel": -2,
+  "javascript.updateImportsOnFileMove.enabled": "always"
 }
 ```
 
 ## Vscode extensiones
 
+* Better Comments.      ID-> aaron-bond.better-comments
+* Bootstrap intekiSense ID->hossaini.bootstrap-intellisense
+* Code Runner           ID->formulahendry.code-runner
+* Code Spell Checker    ID->streetsidesoftware.code-spell-checker
+* Console Ninja         ID->WallabyJs.console-ninja
+* Error Lens            ID-> usernamehw.errorlens
+* ES7+ React/Redux/React-Native snippets            ID->dsznajder.es7-react-js-snippets
+* ESLint                ID->dbaeumer.vscode-eslint
+* freeCodeCamp Dark Theme   ID->freeCodeCamp.freecodecamp-dark-vscode-theme
+* git Graph   ID->mhutchie.git-graph
+* GitLens     ID->eamodio.gitlens
 * HTML CSS Support.     ID-> ecmel.vscode-html-css
-* Path Intellisense     Id-> christian-kohler.path-intellisense
 * Live Server.          ID-> ritwickdey.LiveServer
 * Markdown all in one.  ID-> yzhang.markdown-all-in-one
 * Markdownlint          ID-> DavidAnson.vscode-markdownlint
-* Better Comments.      ID-> aaron-bond.better-comments
 * Material Ico Theme    ID-> Kief.material-icon-theme
-* Error Lens            ID-> usernamehw.errorlens
-* ESLint                ID->dbaeumer.vscode-eslint
+* Path Intellisense     Id-> christian-kohler.path-intellisense
 * Prettier              ID-> esbenp.prettier-vscode
-* Code Runner           ID->formulahendry.code-runner
-* Code Spell Checker
 * Spanish - Code Spell Checker    #cSpell:enable/disable
-* CSS Peek              ID_> pranaygp.vscode-css-peek
-* ES7+ React/Redux/React-Native snippets            ID->dsznajder.es7-react-js-snippets
+* Tailwind CSS IntelliSense   ->bradlc.vscode-tailwindcss
+* Thunder Client
+* version lens    ID->pflannery.vscode-versionlens
 * Styled-components     ID->styled-components.vscode-styled-components
+  
