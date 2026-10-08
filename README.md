@@ -1,4 +1,4 @@
-# Lista de Configuraciones iniciales en VScode para Desarrollo Web, P.E.R.N Stack en Win10 - Feb-2024
+# Lista de Configuraciones iniciales en VScode para Desarrollo Web, P.E.R.N Stack en Win10 - Oct-2026
 
 ## Software
 
