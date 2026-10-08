@@ -22,7 +22,13 @@
   * PS1="$PS1"'\[\033[33m\]'       # change to brownish yellow
   * PS1="$PS1"'\w'                 # current working directory
     
-  * Conectar con GitHub (no recuerdo como )
+  * Conectar con GitHub para poder empezar a hacer push. iniciar git bash y ejecutar
+    * git config --global user.email "tu-correo@ejemplo.com" (tu correo github)
+    * git config --global user.name "Tu Nombre" (tu usuario github)
+    * hacer un git push, te pedira auth con github 
+    todo listo por acá.
+
+  
 
 * Node Version Manager
   * Node.js v12.18.3
