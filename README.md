@@ -8,7 +8,7 @@
     1- selecionar Vim como editor
     2- defauld branch main
     3- git pull defauld "merge"
-    
+
   * Personalizar para limpiar consola en C:\Program Files\Git\etc\profile.d\
   * archivo git-prompt.sh -> abrir con Vscode editar y guardar como admin.
   agregar un # al inicio "comenta" las lineas y limpia la ruta en el bash terminal
@@ -21,16 +21,16 @@
   * #PS1="$PS1"'$MSYSTEM '          # show MSYSTEM
   * PS1="$PS1"'\[\033[33m\]'       # change to brownish yellow
   * PS1="$PS1"'\w'                 # current working directory
-    
+
   * Conectar con GitHub para poder empezar a hacer push. iniciar git bash y ejecutar
-    * git config --global user.email "tu-correo@ejemplo.com" (tu correo github)
+    * git config --global user.email "<tu-correo@ejemplo.com>" (tu correo github)
     * git config --global user.name "Tu Nombre" (tu usuario github)
-    * hacer un git push, te pedira auth con github 
+    * hacer un git push, te pedira auth con github
     todo listo por acá.
 
-  
+* instalar Node Version Manager
+<https://github.com/nvm-windows/nvm/releases>
 
-* Node Version Manager
   * Node.js v12.18.3
     * individual project Dogs
   * Node.js v20.11.0-x64
@@ -48,7 +48,6 @@
 {
   "workbench.colorTheme": "freeCodeCamp Dark Theme",
   "editor.minimap.enabled": false,
-  "cSpell.language": "en,es",
   "editor.cursorBlinking": "expand",
   "editor.cursorWidth": 4,
   "editor.cursorStyle": "line-thin",
@@ -84,27 +83,37 @@
 
 ## Vscode extensiones
 
-* Better Comments.      ID-> aaron-bond.better-comments
-* Bootstrap intekiSense ID->hossaini.bootstrap-intellisense
-* Code Runner           ID->formulahendry.code-runner
-* Code Spell Checker    ID->streetsidesoftware.code-spell-checker
-* Console Ninja         ID->WallabyJs.console-ninja
-* Error Lens            ID-> usernamehw.errorlens
-* ES7+ React/Redux/React-Native snippets            ID->dsznajder.es7-react-js-snippets
-* ESLint                ID->dbaeumer.vscode-eslint
-* freeCodeCamp Dark Theme   ID->freeCodeCamp.freecodecamp-dark-vscode-theme
-* git Graph   ID->mhutchie.git-graph
-* GitLens     ID->eamodio.gitlens
+### Básicos
+
+* Spanish - Code Spell Checker    -> Esta incluye ingles y en la documentación esta como activar español y quedan ambas activas (corrige errores de TYPO, AHORRA MUCHOS DOLORES DE CABEZA)
 * HTML CSS Support.     ID-> ecmel.vscode-html-css
 * Live Server.          ID-> ritwickdey.LiveServer
+* Better Comments.      ID-> aaron-bond.better-comments // para comentar con colores, util si eres visual.
+* Material Ico Theme    ID-> Kief.material-icon-theme
 * Markdown all in one.  ID-> yzhang.markdown-all-in-one
 * Markdownlint          ID-> DavidAnson.vscode-markdownlint
-* Material Ico Theme    ID-> Kief.material-icon-theme
+* freeCodeCamp Dark Theme   ID->freeCodeCamp.freecodecamp-dark-vscode-theme  // tema ligero y cómodo a la vista
+
+### Ver Errores en el código
+
+* Console Ninja         ID->WallabyJs.console-ninja
+* Error Lens            ID-> usernamehw.errorlens
+* Code Runner           ID->formulahendry.code-runner
+* ESLint                ID->dbaeumer.vscode-eslint
+
+### Productividad
+
+* ES7+ React/Redux/React-Native snippets            ID->dsznajder.es7-react-js-snippets // shortcode de componentes
+* Bootstrap intekiSense ID->hossaini.bootstrap-intellisense // ayuda para para sintaxis Bootstrap
 * Path Intellisense     Id-> christian-kohler.path-intellisense
-* Prettier              ID-> esbenp.prettier-vscode
-* Spanish - Code Spell Checker    #cSpell:enable/disable
 * Tailwind CSS IntelliSense   ->bradlc.vscode-tailwindcss
+
+### Control de versiones
+
+* git Graph   ID->mhutchie.git-graph
+* GitLens     ID->eamodio.gitlens
+
+### API REST
+
 * Thunder Client
-* version lens    ID->pflannery.vscode-versionlens
-* Styled-components     ID->styled-components.vscode-styled-components
   
