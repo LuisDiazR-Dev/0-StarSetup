@@ -4,10 +4,10 @@
 
 * VsCode
 * Git
-  * Prferencias para instalacion:
-    1- selecionar Vim como editor
-    2- defauld branch main
-    3- git pull defauld "merge"
+  * Preferencias para instalación:
+    1- seleccionar Vim como editor
+    2- default branch main
+    3- git pull default "merge"
 
   * Personalizar para limpiar consola en C:\Program Files\Git\etc\profile.d\
   * archivo git-prompt.sh -> abrir con Vscode editar y guardar como admin.
@@ -25,7 +25,7 @@
   * Conectar con GitHub para poder empezar a hacer push. iniciar git bash y ejecutar
     * git config --global user.email "<tu-correo@ejemplo.com>" (tu correo github)
     * git config --global user.name "Tu Nombre" (tu usuario github)
-    * hacer un git push, te pedira auth con github
+    * hacer un git push, te pedirá auth con github
     todo listo por acá.
 
 * instalar Node Version Manager
@@ -65,7 +65,6 @@
   "editor.glyphMargin": false,
   "editor.guides.bracketPairs": "active",
   "editor.guides.highlightActiveBracketPair": false,
-  "cSpell.userWords": ["predeploy"],
   "editor.formatOnSave": true,
   "editor.insertSpaces": false,
   "editor.tabSize": 2,
@@ -89,7 +88,7 @@
 * HTML CSS Support.     ID-> ecmel.vscode-html-css
 * Live Server.          ID-> ritwickdey.LiveServer
 * Better Comments.      ID-> aaron-bond.better-comments // para comentar con colores, util si eres visual.
-* Material Ico Theme    ID-> Kief.material-icon-theme
+* Material Ico Theme    ID-> PKief.material-icon-theme
 * Markdown all in one.  ID-> yzhang.markdown-all-in-one
 * Markdownlint          ID-> DavidAnson.vscode-markdownlint
 * freeCodeCamp Dark Theme   ID->freeCodeCamp.freecodecamp-dark-vscode-theme  // tema ligero y cómodo a la vista
@@ -104,7 +103,7 @@
 ### Productividad
 
 * ES7+ React/Redux/React-Native snippets            ID->dsznajder.es7-react-js-snippets // shortcode de componentes
-* Bootstrap intekiSense ID->hossaini.bootstrap-intellisense // ayuda para para sintaxis Bootstrap
+* Bootstrap IntelliSense ID->hossaini.bootstrap-intellisense // ayuda para para sintaxis Bootstrap
 * Path Intellisense     Id-> christian-kohler.path-intellisense
 * Tailwind CSS IntelliSense   ->bradlc.vscode-tailwindcss
 
